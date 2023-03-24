@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="main logo" style="background-color: black" alt="main logo">
+  <img src="../a" style="background-color: black" alt="main logo">
 </div>
 <div align="center">
-  <img src="am_i_responsive_image" alt="Home Page">
+  <img src="" alt="Home Page">
 </div>
 
 [Horizon Photography](https://ri-dearg.github.io/horizon-photo/index.html) is designed as a portfolio for a travel Photographer with an interactive map of photos as its main feature. Its goal is to highlight the photographer and to create interest in the photographer's work through an interactive exploration of different countries, instead of a static gallery. I wanted to create a certain fascination in the country, the location, that can represent a coherent idea or theme, rather than just a gallery of beautiful photos. As it is a portfolio, a minimal aesthetic has been maintained to highlight the photos, with only critical links and info displayed. While photography sites vary greatly in design, the key is putting the photos front and center, so I have cut away all extras and done just that.
